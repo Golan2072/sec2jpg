@@ -4,4 +4,4 @@ By Omer Golan-Joel, golan2072@gmail.com
 Requires the PyGame library.
 Includes a SEC parser and a map generator.
 
-v0.5 - unly uses "Sunbane" files and limited to one subsector. Basic functionality.
+v0.5 - only uses "Sunbane" files and limited to one subsector. Basic functionality.
